@@ -1,0 +1,53 @@
+{
+  "-5023560306": {
+    "lang": "en",
+    "parties": {
+      "tusa": {
+        "expenses": [
+          {
+            "user": "Red_raven",
+            "amount": 25.0
+          },
+          {
+            "user": "Red_raven",
+            "amount": 6.5
+          },
+          {
+            "user": "Red_raven",
+            "amount": 67.5,
+            "desc": "bar",
+            "ts": "2025-11-07T14:38:50.171469"
+          },
+          {
+            "user": "Red_raven",
+            "amount": 15.5,
+            "desc": "bot",
+            "ts": "2025-11-07T15:00:17.524012"
+          },
+          {
+            "user": "Red_raven",
+            "amount": 13.3,
+            "desc": "Bar",
+            "ts": "2025-11-07T17:02:05.266337"
+          },
+          {
+            "user": "Red_raven",
+            "amount": 1.0,
+            "desc": "2",
+            "ts": "2025-11-08T11:05:22.877820"
+          }
+        ],
+        "members": {
+          "Red_raven": 128.8,
+          "Mariia_proko": 0
+        }
+      },
+      "tusaa": {
+        "members": {},
+        "expenses": {}
+      }
+    },
+    "current_party": "tusa",
+    "current": "tusa"
+  }
+}
