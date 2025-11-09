@@ -475,8 +475,7 @@ async def err_handler(update: object, context: ContextTypes.DEFAULT_TYPE):
 
 # ---------------- main ----------------
 def main():
-    token = "8075634527:AAGFsV9FhgDK3XRZ325qstNQASiINtf0EsM"
-    # token = os.environ.get("BOT_TOKEN")
+    token = os.environ.get("BOT_TOKEN")
     if not token:
         print("ERROR: set BOT_TOKEN environment variable")
         return
@@ -491,9 +490,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-#   TOKENVAR = "8075634527:AAGFsV9FhgDK3XRZ325qstNQASiINtf0EsM"
-# "8075634527:AAGFsV9FhgDK3XRZ325qstNQASiINtf0EsM"
-    # app = ApplicationBuilder().token(TOKENVAR).build()
 
